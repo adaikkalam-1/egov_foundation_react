@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import Common from "../../../common/Common";
 import EGovCard from "../../../components/eGovCard/EGovCard";
-import SkyLoading from "../../../components/skyLoading/SkyLoading";
 import NoData from "../../../components/noData/NoData";
 import EGovSkyLoading from "../../../components/skyLoading/EGovSkyLoading";
 
