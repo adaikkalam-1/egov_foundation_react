@@ -1,0 +1,21 @@
+.no-data-wrapper {
+  width: 100%;
+}
+
+.no-data-box {
+  padding: 20px;
+}
+
+.no-data-img {
+  width: 140px;
+  opacity: 0.8;
+}
+
+.no-data-box h4 {
+  font-size: 20px;
+}
+
+.no-data-box p {
+  font-size: 14px;
+  margin: 0px;
+}
