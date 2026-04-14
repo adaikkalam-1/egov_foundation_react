@@ -38,7 +38,7 @@ const Navbar = () => {
                 </li>
               ))}
             </ul>
-            <div className="search-box ms-lg-3">
+            <div className="search-box ms-3">
               <i className="fa-solid fa-magnifying-glass text-secondary"></i>
             </div>
           </div>
